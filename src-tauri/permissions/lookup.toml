@@ -1,0 +1,4 @@
+[[permission]]
+identifier = "allow-lookup-track-genres"
+description = "Look up genres for the playing track"
+commands.allow = ["lookup_track_genres"]
